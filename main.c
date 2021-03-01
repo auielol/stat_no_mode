@@ -92,6 +92,8 @@ void selection(int sel)
 				
 				system("pause");
 				system("cls");
+				
+				getData(s);
 			}
 			
 			return;
